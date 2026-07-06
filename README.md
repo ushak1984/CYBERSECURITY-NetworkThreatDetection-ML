@@ -14,6 +14,6 @@ The main goal was to evaluate whether machine learning models can help detect:
 
 ## Files
 
-- `README.md` — project overview
-- `Python Notebooks/EDA/` — data cleaning, preprocessing, and exploratory analysis notebooks
-- `Python Notebooks/ML MODELS/` — supervised classification and anomaly detection notebooks
+- `README.md` : project overview
+- `Python Notebooks/EDA/` : data cleaning, preprocessing, and exploratory analysis notebooks
+- `Python Notebooks/ML MODELS/` : supervised classification and anomaly detection notebooks

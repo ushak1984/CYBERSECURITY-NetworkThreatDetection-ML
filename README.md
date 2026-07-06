@@ -12,13 +12,8 @@ The main goal was to evaluate whether machine learning models can help detect:
 - Unusual or unseen behavior using anomaly detection
 - Dataset quality issues that affect real-world cybersecurity modeling
 
-## Repository Contents
+## Files
 
-```text
-cybersecurity-threat-detection-ml/
-│
-├── README.md
-│
-├── notebooks/
-   ├── eda/
-   └── modeling/
+- `README.md` — project overview
+- `Python Notebooks/EDA/` — data cleaning, preprocessing, and exploratory analysis notebooks
+- `Python Notebooks/ML MODELS/` — supervised classification and anomaly detection notebooks
